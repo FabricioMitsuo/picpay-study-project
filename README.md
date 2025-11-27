@@ -6,8 +6,6 @@
 - Controller: `app/Http/Controllers/UserController.php`
 - Rotas: `routes/api.php`
 
-*(código já te entreguei na resposta anterior)*
-
 ---
 
 ## 📂 CRUD HyperF (src/hyperf)
@@ -15,8 +13,6 @@
 - Model: `app/Model/User.php`
 - Controller: `app/Controller/UserController.php`
 - Rotas: `config/routes.php`
-
-*(código já te entreguei na resposta anterior)*
 
 ---
 
